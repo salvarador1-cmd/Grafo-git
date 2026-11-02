@@ -1,0 +1,4 @@
+*.class
+Grafo/build/
+Grafo/dist/
+Grafo/nbproject/private/
